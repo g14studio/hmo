@@ -1,0 +1,5 @@
+ul.slider-pictures {}
+	ul.slider-pictures li {display: inline-block;margin: 0px 4px 4px 0px; width: 107px; overflow: hidden;position: relative; cursor: move;}
+		ul.slider-pictures li img {width: 100%;}
+		ul.slider-pictures li .buttons {display:none; position: absolute; right: 5px; top: 5px;}
+			ul.slider-pictures li .buttons .btn {padding: 3px;}

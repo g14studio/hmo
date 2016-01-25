@@ -1,0 +1,114 @@
+/* Car Rental WP Plugin */
+/*
+	Version: 1.3.0
+*/	
+.nav-tabs {
+	margin-top: 1em;
+}
+
+.carrental-main-wrapper {
+	background-color: white;
+	padding-left: 0;
+	margin-left: 16px;
+	
+}
+
+.carrental-main-content {
+	padding: 2em;
+}
+
+table#carrental-fleet tr td,
+table#carrental-extras tr td {
+	vertical-align: middle;
+	font-size: 120%;
+}
+
+table#carrental-fleet tr td table {
+	font-size: 70%;
+	background-color: transparent !important;
+}
+
+table#carrental-fleet tr td ul {
+	font-size: 90%;
+	list-style-type: circle;
+}
+
+table#carrental-fleet tr td table tr {
+	background-color: transparent !important;
+}
+
+table#carrental-fleet tr td table tr td {
+	border: 0;
+	padding: 4px 5px;
+	background-color: transparent !important;
+}
+
+table#carrental-branches tr td,
+table#carrental-vehicle-categories tr td,
+table#carrental-day-range tr td,
+table#carrental-hour-range tr td {
+	vertical-align: middle;
+}
+
+table#carrental-day-range,
+table#carrental-hour-range {
+	margin-bottom: 0;
+}
+
+.carrental-add-form form {
+	margin: 2em 0;
+}
+
+.carrental-add-form form>div>div {
+	padding: 1em;
+	margin-left: 15px;
+	background-color: #F1F1F1;
+	border: 1px solid #DDDDDD;
+}
+
+.carrental-add-form div.alert.alert-info {
+	color: black;
+}
+
+.carrental-add-form select,
+.carrental-av-currencies-div input {
+	margin-bottom: 0.5em;
+}
+
+.carrental-business-hours td {
+	vertical-align: middle;
+}
+
+.business-hours {
+	margin-top: 0.5em;
+}
+
+#carrental-av-currencies h4 {
+}
+
+.carrental-vehicle-categories .row {
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #efefef;
+}
+
+.branch-not-listed {
+	color: tomato;
+}
+
+.pricing_datepicker {
+	width: 90%;
+}
+
+#day-range-help {
+	color: tomato;
+	font-weight: bold;
+}
+
+#carrental-hour-range-box {
+	margin-top: 15px;
+}
+
+.ui-dialog-titlebar-close:before {
+  content: "X";
+}

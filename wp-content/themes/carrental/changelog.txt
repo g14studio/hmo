@@ -1,0 +1,8 @@
+// CarRental WP theme - change log // 
+
+== 2015-09-21 ==
+v 3.0.1
+- now you can click on calendar icon
+- GPS support for locations
+- responsive slider now works a whole lot better
+- you can now set max passenfer filter range in settings

@@ -1,0 +1,30 @@
+Plugin update: 2015-01-20 00:04:03
+Backuping files...
+Done: 2015-01-20 00:04:03
+Backuping database...
+Done: 2015-01-20 00:04:03
+Downloading...
+Done: 2015-01-20 00:04:05
+Unziping...
+Done: 2015-01-20 00:04:05
+Updating database...
+Done: 2015-01-20 00:04:05
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/assets\bootstrap.css
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/assets\bootstrap.min.css
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/assets\bootstrap.min.js
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/assets\carrental.css
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/assets\carrental_menu_icon.png
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/assets\dataTables.bootstrap.js
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/assets\jquery.dataTables.js
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/assets\style.css
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/carrental-calendar-plugin-updater.php
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/carrental-calendar.php
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/changelog.TXT
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/class.carrental-calendar.php
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/index.php
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/views\carrental-calendar.php
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/views\flash_msg.php
+Updated: D:\www\ecalypse\wp-content\plugins\carrental-calendar/views\header.php
+Done: 2015-01-20 01:04:06
+Cleaning...
+Finished: 2015-01-20 01:04:06

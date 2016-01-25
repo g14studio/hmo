@@ -1,0 +1,10 @@
+// CarRental Calendar WP Plugin - change log // 
+
+== UNRELEASED ==
+v 1.2
+- drag and drop scroll
+- disable notes option
+
+== 2015-01-19 == LOCKED
+v 1.1
+ - Automatic update proccess added

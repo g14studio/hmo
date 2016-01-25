@@ -1,0 +1,5 @@
+// CarRental Client Area WP Plugin - change log // 
+
+== 2015-05-01 == LOCKED
+v 1.0
+ - Basic verison

@@ -1,0 +1,43 @@
+/* Car Rental Client Area WP Plugin */
+/*
+	Version: 1.0
+*/	
+.carrental-client-area-links {float: left;line-height: 27px;}
+
+div.carrental-client-area {margin-bottom: 20px;}
+
+section.content.carrental-client-area {background: #f6f6f6;}
+
+.mb0 {margin-bottom: 0px;}
+
+.carrental-client-area-login-div { margin-top: 20px; margin-bottom: 20px; text-align: center;}
+	.carrental-client-area-login-div form { margin: auto; border: 1px solid #ddd; background: #fff; width: 320px; text-align: left; padding: 20px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7);}
+		.carrental-client-area-login-div form label {display: block;margin: 10px 0px 5px 0px;}
+		.carrental-client-area-login-div form input {width: 100%;}
+		.carrental-client-area-login-div form button {margin-top: 10px;}
+		.carrental-client-area-login-div form div {margin-top: 10px;}
+			.carrental-client-area-login-div form div a {display: inline-block; margin-right: 30px;}
+			
+.subform {margin-bottom: 20px;display: block;}
+	.subform h3 {font-size: 14px;}
+	.subform label {display: block; margin-bottom: 5px;margin-top: 10px;}
+	.subform button {display: block;margin-top: 10px;}
+
+#carrental-client-area-hidden-login {position: fixed;top: 25%;left: 50%;margin-left: -230px;padding: 20px;background: #fff;z-index: 20;border-radius: 5px;border: 2px solid rgba(0,0,0,.2);box-shadow: 0 0 15px rgba(0,0,0,.2);display: none;}
+	#carrental-client-area-hidden-login label {display: block;margin-bottom: 5px;}
+	#carrental-client-area-hidden-login input {display: block;width: 40%;margin-bottom: 20px;}
+.booking-client-area-form-overflow {position: fixed;top: 0;left: 0;width: 100%;height: 100%;background: rgba(0,0,0,.3);z-index: 19;display: none;}
+.resp-table-show {display: none;}
+.carrental-clinet-area-form-section label {font-weight: bold;}
+
+@media (max-width: 600px) {
+	span.resp-table-show {display: block;}
+	td.resp-table-show {display: table-cell;}
+	.resp-table-hide {display: none;}
+}
+
+@media (max-width: 450px) {
+	.carrental-client-area-login-div form {width: 90%; box-shadow: none;padding: 20px 5%;}
+	#carrental-client-area-hidden-login {margin-left: -125px;top: 10%;padding-right: 35px;}
+	#carrental-client-area-hidden-login input {display: block;width: 100%;}
+}

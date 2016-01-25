@@ -1,0 +1,4 @@
+.carrental-client-area-client-details {margin-top: 10px; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 1px solid #ccc;}
+	.carrental-client-area-client-details li {float: left; width: 30%;}
+		.carrental-client-area-client-details li label {display: inline-block; margin-right: 5px;width: 140px;}
+	.clear {clear:both;}
