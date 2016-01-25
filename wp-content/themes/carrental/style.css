@@ -629,6 +629,10 @@ strong,
     color: #e0a201
 }
 
+.servicios {
+    color: #FF4343
+}
+
 .error {
     color: #eb1500
 }
@@ -3588,6 +3592,13 @@ hr.sep {
     background-position: -83px -192px
 }
 
+.sprite-extras {
+    width: 28px;
+    height: 23px;
+    background-position: -83px -192px
+}
+
+
 .sprite-mavensoft {
     width: 65px;
     height: 22px;
@@ -6488,7 +6499,7 @@ select.control-select-xlarge+.selectboxit-container.selectboxit-btn {
     padding-right: 15px;
     font-family: "Open Sans";
     font-weight: 600;
-    font-size: 16px
+    font-size: 15px
 }
 
 .item-large {
@@ -6920,7 +6931,7 @@ hr.separate:after {
 }
 
 .slider .ui-slider-range {
-    background: #e6e6e6;
+    background: #FF4343;
     height: 100%;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -8820,6 +8831,13 @@ footer .follow-links a+a {
     height: 28px;
     width: 28px;
     background: url("img/sprite-manage-booking.png") no-repeat center center;
+    background-size: 28px;
+}
+
+.sprite-extras {
+    height: 28px;
+    width: 28px;
+    background: url("img/extras.png") no-repeat center center;
     background-size: 28px;
 }
 

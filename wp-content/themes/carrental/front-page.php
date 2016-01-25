@@ -124,7 +124,7 @@ get_header(); ?>
 
 		<div class="container">
 						
-			<div class="columns-3 main-links">
+			<div class="columns-4 main-links">
 				
 				<div class="column">
 					
@@ -171,6 +171,23 @@ get_header(); ?>
 								</span>
 								<span class="item-content extra">
 									<?= CarRental::t('Manage reservation') ?>
+								</span>
+							</a>
+						</h2>
+					<?php } ?>
+				</div>
+				<!-- .column -->
+
+				<div class="column">
+				
+					<?php if (isset($theme_options['manage_booking_page']) && !empty($theme_options['manage_booking_page'])) { ?>
+						<h2>
+							<a href="/index.php/servicios-exclusivos/" title="" class="item">
+								<span class="item-thumb">
+									<span class="sprite-extras"></span>
+								</span>
+								<span class="item-content servicios">
+									Servicios Exclusivos
 								</span>
 							</a>
 						</h2>
